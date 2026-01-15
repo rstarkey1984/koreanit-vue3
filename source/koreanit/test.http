@@ -1,8 +1,0 @@
-### api/dev/test
-POST http://localhost:3000/api/dev/test
-
-{"title":"새 뉴스","link":"https:://example.com"}
-
-### api/news
-GET http://localhost:3000/api/news
-

@@ -1,3 +1,0 @@
-module.exports = {
-  kr_it: "https://news.google.com/rss/search?q=IT&hl=ko&gl=KR&ceid=KR:ko",
-};
