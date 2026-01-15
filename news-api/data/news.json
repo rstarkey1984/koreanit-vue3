@@ -1,0 +1,707 @@
+{
+  "source": "kr_it",
+  "updatedAt": "2026-01-15T05:38:01.420Z",
+  "count": 100,
+  "items": [
+    {
+      "id": "26af0e750786ce213ed8de944db8d075fb1f145e",
+      "title": "[기고]인력난 겪는 IT에도 '프로 스포츠 FA제도' 필요하다 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zT05hMVNjYVBkNDc5WkVKU29Rc2lzMmp4blNIYWNmMHAzbUFQT3ozWjJkcjN5RlVwcXQ0S0tLSVdLc1JCRW5helJwak1sZw?oc=5",
+      "publisher": "전자신문",
+      "publishedAt": "Wed, 14 Jan 2026 07:00:00 GMT"
+    },
+    {
+      "id": "4063706c6a188ad8b65f5ca56ffbd8d79d40e9ca",
+      "title": "“Made it, Ma!”… 비극적인 최후를 ‘해냈다’니 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmViSjAtOGxqUGM2S0lad2lBYk9mbG92aHlLUEpKaVFMUFo0UXJOcWJoTG1WZUIzdl9seHlEZU5IT1IxcE5VZ0pXa0o0ZldtdjR2X3U2RlJiOExUaGdtb0lsZzdHUjRFRWNLZXRIUE1xb1VkZFBnQnlpRkVCLWhnQUZwMzZDSWM?oc=5",
+      "publisher": "조선일보",
+      "publishedAt": "Wed, 14 Jan 2026 18:07:52 GMT"
+    },
+    {
+      "id": "b4cab92dbe9f346cd200b0370ea77e95a97351ed",
+      "title": "취업 남방한계선은 평택?…IT 격차에 갈린 불균형 지도 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xeTVnWjVaQkdQUmRDQTFBdVhSMUo3Y0stOUdMVFMtQktkYXZLNkZKV3hXZUVpWTI1UUFNZ1ZZQnhwU2FhMUU0RGVBQXNfbk0?oc=5",
+      "publisher": "v.daum.net",
+      "publishedAt": "Wed, 14 Jan 2026 10:45:00 GMT"
+    },
+    {
+      "id": "c05e233ff49f6bb31e5f4463bc2d1aa7235a4744",
+      "title": "\"지정타 IT기업 해외진출 꾀한다\"…신계용 과천시장 'CES 2026' 방문 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTTVmVHA1TTdGNXRxcUlzTWZtU0FNT3J0LWc5WU9zcFFfTDR3Y1E3R3NlekdTY0xYSUoyc1ZBUWF6aV8wRzZ6dVNCWjB6X0dIY2VMRjNR?oc=5",
+      "publisher": "뉴스1",
+      "publishedAt": "Wed, 14 Jan 2026 05:48:34 GMT"
+    },
+    {
+      "id": "c10e7e19670e75d1fbc9e14d17f9a28cea5caae7",
+      "title": "연초부터 줄어든 대기업 IT 외주…AI 투자 집중이 만든 구조 변화 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VdWhFS0h1aFdLOXdTazJYX0xFcFo4ejBVRTd3UXZ3RkZDZ1pYRm5OYndIRW5LMWU5MUNwaHlzaUJqeC1Ebmx3bFpDSGg4QzBhSkNv?oc=5",
+      "publisher": "네이트",
+      "publishedAt": "Wed, 14 Jan 2026 07:28:00 GMT"
+    },
+    {
+      "id": "efe24d37ea27ba8a8d6d5ce655f8a9a9b7ef798b",
+      "title": "AI 열풍에 메모리 반도체 품귀 현상 🤖‘메모리플레이션’ 이유와 IT 업계 영향 - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qcE16WGZia0lMTXY1dmpNYWsyeUtxbzdORXNXRDNlaDJOcGpxZUJiVktUbG53ZEZXN1FLcjJCVDI0cFlCbWhka3BpX01sYi1WcVd3?oc=5",
+      "publisher": "뉴닉",
+      "publishedAt": "Mon, 12 Jan 2026 02:43:00 GMT"
+    },
+    {
+      "id": "70994ccca1b5a945797a2ab9b2effdeb2a6d82d2",
+      "title": "창업 교육받은 청년, '창업 의향' 2배 늘고 'IT 기술창업' 4배 껑충 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53TThIVGRoWlJwR2JDSW9rYVBCVG1vSENROHlFSDhlLUJjeExhX1JjTkRpc3A5MW9DakMzZUtKLVFoS1ZzWkRXTWtjYnZ0d0tibEdPNDV6YnpjbUlj?oc=5",
+      "publisher": "뉴스핌",
+      "publishedAt": "Wed, 14 Jan 2026 21:00:00 GMT"
+    },
+    {
+      "id": "c8fac8f0b30ac0c315aaa188037669cb3b215bfa",
+      "title": "AI스페라, '시큐리티 메가비전 2026'서 IT자산·취약점 효율적 관리 방안 제시한다 - ZUM 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOcDRObTJLVmZwazZOUFVEMVNSMWktNU9ZSjc5Z080Y1NqaUI3b1c3RkdUZFV2UHZaTEdfZnRyaG1ZVUJfZVI4WVVnRlRhby1IOGJLdm11aVRpdjFCVjlfbVM5Tml3VF93UDdkc3NBRUtjeXpVOGRONTZXZkhrbGFCOWVXSXBlTkNJUEpnZ3NTRktxajd5VXkxejdYMVUtVlhYZWlNRnJFME5jQUhzUFd4N2lvemJLOXN4dmJ4dGxhNjZ1MkEwOExzRFBKTWx3N016T0JycXNXaGljcFdXRWhycDdaWDN5VjFFX3MxRE4xM0VNdlpPNnFiVEZRVkRVNDZQbEc0OFI5SEpVXzRRbkhDcE4yVkZPb3J5dFliX3BMNkw1TjFtQUNpdndhejkzY2cxRjU5ZXVBQklLUllGZDdmMkNaZ2VsQ2tKdndzSTNoSXZ2SXFybE1aWlZDY0hIeXdxOTYyUlFGazN3S3lJLVhSRmhuQ1BFZ3FQZ0o0UzVTWW1RMnozQVdPX0Z2MEptZG5QZHdqSFpxd0JSUW9wcGN3OVFkSXBCSGRuYS1EeEx6RFpIbmZvQzN0UHdPTQ?oc=5",
+      "publisher": "ZUM 뉴스",
+      "publishedAt": "Tue, 13 Jan 2026 22:26:33 GMT"
+    },
+    {
+      "id": "5b51966810d4a099e3821613801b593548665578",
+      "title": "IT 조직보다 더 조직적인 해커들…살아남는 기업의 조건 - itworld.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNSmRqTHVkUHhURlJjOXFIYzF0Tm0wQjU4YlBkZFkwM3dma3p0SzZpNzUyd1g4am10VVF4X2tLaEo1V29iLXF5clBaT1lUYUtwZzlhbUd4a1VxRDZqai1IZzJBRjJZTXR6Y2pDNGZTcjBhVVpxTzcyamlFNERkcFRfZzdSdGxOb2ZCZzNvbHRXRGVGbjVtR3ZBOFZYQ1FhVUF1NVpvalYtbDFhZU9MbURJU3JmQkptTjViSW5MVS1vMm5CYXlNZWVHazlOSmJMOUtEd3VXRExzWXd3TWJiRmJOdmNsNjVHLU9GT3FXRE5saDRfdksxYjJSTTZKSzJKT18ySVNaRzBfZTBqRXVnTThTQnBlN01KdHhQSkNFZ1dFZ21oNi0wNVJlaFo3WDVwNnR2TGxqaUdrdHgyZVdWRUVOb01fZ3lNd2FqUDZKX1FGMTYxS3JuT1E?oc=5",
+      "publisher": "itworld.co.kr",
+      "publishedAt": "Thu, 15 Jan 2026 03:00:30 GMT"
+    },
+    {
+      "id": "4b3a58dd05586ef633311dd630b26d9bd9d84242",
+      "title": "슈프리마, 중동 IT전시 참가 확대 - BI KOREA",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RcHJPWEgzTUNUS0RCbGU0VmJvdVhpRzNjZE5hV205NnBobmI1US1RSGpQR1pMclpJc0M4RzRCZURKcGhTajdrZ1FlcERpLTNtSEo2cms3d3hKenRFYWx6OU9lbWw4bnM?oc=5",
+      "publisher": "BI KOREA",
+      "publishedAt": "Thu, 15 Jan 2026 00:41:00 GMT"
+    },
+    {
+      "id": "3dcce36c12cbc5885d0d453d8c07f03511016d2d",
+      "title": "젠엑시스, 액셀러레이팅 프로그램 IR 컨설팅 성료 - 히트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ObUswTWYzUXk0VmUxcTJ1QmNaWTVTNmp3V0VxSVkzNWNhRjROQXo5Q1p1eWhrX3g2X1hFbGx4Z2d6eDdISk9jWDNMQ0tkc1I5YlJORTJEcVdMQko3STdUS2UxWEJCTzNQUXJn?oc=5",
+      "publisher": "히트뉴스",
+      "publishedAt": "Thu, 15 Jan 2026 00:04:03 GMT"
+    },
+    {
+      "id": "6b9daf17e0700dda39a76eb8157039f8a869d451",
+      "title": "`IT 전문가` 안철수 `한동훈이 직접 `당게 IP` 입증하면 간단한 문제` - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81M0wwdlZ6MDV2ZkZ1ZzBETUNmTjNyNXBuMC1hTkZza01jTmVpcmRvSlY2eGlfMmdUVUVHbklTRzdFb0JZMm9oS0hxcmUyMTllOEI4dkttTTFHNjA0SGpKTGxR?oc=5",
+      "publisher": "매일신문",
+      "publishedAt": "Thu, 15 Jan 2026 02:11:56 GMT"
+    },
+    {
+      "id": "d8b9e8beed59388236b31e80e25098f7b6201444",
+      "title": "크래프톤·에스파, 배틀그라운드 모바일 협업 - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHcU5KZUo2anhwVW5TODZFMGtMbndQUDFNU21mclh5QmhGNTFJdWpEbGVmWTNWVElYZnlQcDFfd1pRQ3JtZVA5X3g5STA4eUF3MzlBSmFLVkZ3N2NDRk9fd3FYZ25SU3RoeWhQRHBpZzE1MnPSAXdBVV95cUxNZE9zTXZGOWE5UEFaRHNZNFdLR3diNnJscEV2YlhpX0F2RFhGWk45cktuMVBIS2FPUFV4SUVPUmdPR1FXMjZpeHFzN3ROSTJ2bWpCSXJ2XzN5QnlEdmU3anBNalI3Smhqdm13cm9mWDRHZVdWWkNNTQ?oc=5",
+      "publisher": "스트레이트뉴스",
+      "publishedAt": "Thu, 15 Jan 2026 04:55:00 GMT"
+    },
+    {
+      "id": "7c38a9454179fd2ca3fd2cf6ae65880ec6b11c27",
+      "title": "[오늘의 게임·IT 소식] 엔씨소프트, 국내 게임 개발사에 전략적 투자 진행 外 - 딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnbTk2SURWeXRRSWhLRHVENENSNy12S1o2X2VRN21NTDB4ZWJleGlsaDIyUFFtWTVCVDdfS0VEOTl6UGdLRUhWLUJjWTlLdTg?oc=5",
+      "publisher": "딜사이트",
+      "publishedAt": "Thu, 15 Jan 2026 02:15:57 GMT"
+    },
+    {
+      "id": "89e25c04242ba5c3b3d3274d9ae7f4ce1128fac5",
+      "title": "홍천소방서 ‘실내 차고에 설치된 열선에서 화재’ 주의 당부 - 세이프투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wUzJjUDlRUU15dDRXZkN5Qkc0QU1oY3pJdS1lSGRHZGt0eS0wRTRtVlQ0d055TVllV25DeHVOTGZwLWFCRmxlU2ZvY2w1NXIwcThwYUJCclFUV2ppM2ZuZm41SjlYY1VadnfSAW5BVV95cUxPaXVZNExpbVlUOU9nNnVySWJlblhVY05XckVrZzdCaENZb1BMVU1FZmg5U2hnVnota09jei1RcEdybk4zTndVZkIxeDFEV09paXg4a2o0MHV3bW1zbEduRnRuNVZ4dFI0RlFFZzRVUQ?oc=5",
+      "publisher": "세이프투데이",
+      "publishedAt": "Wed, 14 Jan 2026 22:06:16 GMT"
+    },
+    {
+      "id": "37d018ec9c9cd125748f94f48ee479e6ac3a5668",
+      "title": "Korea Ruling Party Says No Push for Crypto Exchange Ownership Caps - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QdVF2WTJrOXNLcG1CUXZmNG9UemhWdlVYTVV4T0VTVU92R194RGxjOGg3MG0xR3k3c3dqeGZ0QktHc1o0RG1lVVlKanQ5X3hXbFZnTmdIUkdDbXJfZjZtamZWLUxmanlIQVdBbi1uQXZfRlU?oc=5",
+      "publisher": "마켓인",
+      "publishedAt": "Thu, 15 Jan 2026 00:45:32 GMT"
+    },
+    {
+      "id": "57027296c9f1e184afff6cd0ead43d0199e2b294",
+      "title": "가비아·아티웰스, 'AI 에이전트 통합 구축 서비스' 출시 - 와이드경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwVnNHQXlmd1F6MWNhbEdmZDZYdk5VLS16bWlwZnctUHIxWlhnc0t3WUJOakJVb05KNEZEUjM1TEppd2llSy0zMkJQN3pOWkFTQTNvdlVIQ3hHRV90emlzOWtHTjMwZGNJVGZTQQ?oc=5",
+      "publisher": "와이드경제",
+      "publishedAt": "Thu, 15 Jan 2026 02:38:44 GMT"
+    },
+    {
+      "id": "09c2041cca079821ca38e022d50e6bb82e7c1254",
+      "title": "취업 남방한계선은 평택?…IT 격차에 갈린 불균형 지도 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5b1NKRHlOa0JzcHdweElKbGFkM3lNbkJ5X21GUTViTUNwN3pTdGVLVVRDbkRKVm05VThkenRYTmduM0FVQWhsNDFzSUk4d21RSkFfaQ?oc=5",
+      "publisher": "매일경제",
+      "publishedAt": "Wed, 14 Jan 2026 10:43:49 GMT"
+    },
+    {
+      "id": "6251a39154adf2c0c07c2724b4b0336bc0b3db6e",
+      "title": "델 테크놀로지스, 고효율·고보안 강화한 파워스토어 신제품 공개 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GanNwR2VyaDA0aGNrOEdESGZZN202d3FON1pJN2lDSWdVTmVOdW5idjhDLWNJdTd3OTVkcXJrbGw1Wmh0ZEYweUF1cTg3X0l5RFhYc3NZemx1Uy1adXZUWUdHdEhUejA0LURVdWJR?oc=5",
+      "publisher": "이지경제",
+      "publishedAt": "Thu, 15 Jan 2026 02:05:25 GMT"
+    },
+    {
+      "id": "f6534ad24a3bc9545888c8ff36c1d4a0ef6a9737",
+      "title": "고양특례시, 세계 최대 IT 전시회‘CES 2026’ 방문… 첨단산업 육성책 모색 - 투어코리아",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90TElBaVJzWk1aTDV3Q1UxeWpEZGRhaWtiXzBnSS1RWUhITzBsZjhHT044alcwUnE0Y1ExNzJrVmxpUGo5b1pLMjNWd1lXN3A5SVZ0WnZORTJOdmtVSXVYblZlb3c3eUhNSklJSFZR?oc=5",
+      "publisher": "투어코리아",
+      "publishedAt": "Thu, 15 Jan 2026 04:40:54 GMT"
+    },
+    {
+      "id": "ac83ae865ac801b3c3d857c95730c8b903c221da",
+      "title": "'충청권 IT 인프라' 든든한 버팀목! - 충청비즈",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5Y2w4OXFIbE9iRk9DSk1KdC1hR3k0cVItQ0pTem1GdDhKRHU2UUY0VUtyckZGcUJCSUVQdHBzNDNjSmRQXzBPdmRSNkVTcXBDVTdPSjJGaWJxNDdJdUtJRktR?oc=5",
+      "publisher": "충청비즈",
+      "publishedAt": "Wed, 14 Jan 2026 06:52:45 GMT"
+    },
+    {
+      "id": "82d677ad64ed3385c16b622d203513f8ba77c5cd",
+      "title": "한경협 \"지식 서비스·IT 창업으로 패러다임 전환···AI 교육 확대 효과 뚜렷\"​ - 스마트에프엔",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TV1Y1MVctOE9XUUZsYjJtYWNjdnBvYXlnZ2FjVElEZ1hPcncxckFoaEhlMXhYejZTUkVZQktCWlJuc3dYaEowczJEZEZJT25CUk15UUR3dzlpbXZQOFFBc3o5ZFZDUWYtT0I0LQ?oc=5",
+      "publisher": "스마트에프엔",
+      "publishedAt": "Wed, 14 Jan 2026 21:00:00 GMT"
+    },
+    {
+      "id": "0172d511b61256176a2a5d96ca0deef0c3bf9ec1",
+      "title": "퍼슬리, 서울 AI 허브 입주… 의료 AI 연구개발 가속화” - 히트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wNFh2SVRWQVdJNUM5NldJellzRFRQYW5uWlNlR3lwTUFaRzVJNFZNOS1UeF9ObVd4X2I2a0RFcE8taEkxUmdFbURmcHFaUVVYUkFvZE9oSnFNSW52THRocDNUOWMtRld3azFB?oc=5",
+      "publisher": "히트뉴스",
+      "publishedAt": "Wed, 14 Jan 2026 23:30:03 GMT"
+    },
+    {
+      "id": "83597c6ef54d27770d433050ac87664b24ec1c89",
+      "title": "안랩, 7년 연속 '데이터바우처 지원사업' 공급기업 선정 - 와이드경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XUVhrYk1oQ2JhVGVwVmJEdTlpWmp4bkpZbC1Ha2d5cmlySmlkYm9ac1loeUV3Vk9QMG5YV081czJPeTJRczh3ODBWSzZPVUlfTkFLTTVwbXF1dHdwbEZHQzBvcGJPbmNLOWxtLQ?oc=5",
+      "publisher": "와이드경제",
+      "publishedAt": "Thu, 15 Jan 2026 01:45:09 GMT"
+    },
+    {
+      "id": "285bc69dec0b8a5cccf280557ad9544e99078caf",
+      "title": "엔비디아 H200 거래 조건 논란…미중 규제 불확실성에 시장 긴장 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZER6Ymxsb2tMNGxneEdBelBKSWRYNDJQd0hERC1HeTRJSDZRTjlDNUNGSFYxVkgtOF9DUjI5bXRCVWNXOFVSaC1TZTBSbXhmUlNUOFVmT1JCa2d4V2JwYjBJRnNqWk5qdzc1a2tB?oc=5",
+      "publisher": "이지경제",
+      "publishedAt": "Thu, 15 Jan 2026 04:00:00 GMT"
+    },
+    {
+      "id": "0ca92a240271d70ac4b0bb3f93b6b8c5baf31821",
+      "title": "지씨씨엘-OPIS, 글로벌 임상시험 사업 협력 업무 협약 - 히트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40NUxkTHJLbUxib0tHV3dLY0tJUlpuVGNWX3pNcmpKWTFJaExzN1NmcEUwVjluZUNSbmo0QzBLZzI5SjJXWW9jZWhrejVoYTVmVHppVnJRd0M5ajBqMVdNcXh3RGx3UGE3dUVj?oc=5",
+      "publisher": "히트뉴스",
+      "publishedAt": "Thu, 15 Jan 2026 01:43:01 GMT"
+    },
+    {
+      "id": "c9cd70774241805cba39fec044df36d48279617e",
+      "title": "퓨리오사AI-망고부스트, 차세대 AI 인프라 기술 개발 '맞손' - 와이드경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWQzlsU29hVDlGM00tTklRTUlFay03NUs3X3FmWk5ZeVFIMXF0bF85cXd2SEZKV0cyTlQyeTZuRUk2b0tCY3hwTHhmRUpSWXprTVBFSUlnTW9UUUFYVHU3M0xkejl6eVlvNFpOTw?oc=5",
+      "publisher": "와이드경제",
+      "publishedAt": "Thu, 15 Jan 2026 01:40:48 GMT"
+    },
+    {
+      "id": "46d3da341d73fe5e34ad13e09c891c378d9ebd58",
+      "title": "한화 김동관 부회장, '무탄소 글로벌 해양 생태계' 로드맵 제시 - 뉴스웨이브",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTNUtZcTBYUXlFWlFPVzllU3U4UHhrblBfQnIzVFJLTmhEYTFjZjR2NV8wb3Rhazg2YkxSR3g1Tk55ODM3THRPR0dFTlpWRENGRmQxaEJaNzBMY2x0c29FNXFQMzU3TmFQdmc?oc=5",
+      "publisher": "뉴스웨이브",
+      "publishedAt": "Thu, 15 Jan 2026 00:59:05 GMT"
+    },
+    {
+      "id": "87d17416fcb42f51e4fdf63be21ae63abe30f66a",
+      "title": "야놀자, 소프트웨어 5000억 클럽 인증 - 와이드경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54bmthdnBXcGFXRDhMSGpscmNpSUFDRjZ3eEFzY0lndWItUnhHY3ptaGdOeEZwQmtvZlR0VWlfd3hvbDZDZDI0UDVaVnBneVhmOGlKRVY2akdkUlN4WUVuMzJQaC1tMkZ1TTZpcg?oc=5",
+      "publisher": "와이드경제",
+      "publishedAt": "Thu, 15 Jan 2026 00:33:32 GMT"
+    },
+    {
+      "id": "e29e0be5dddd1d96de9c653b678d38cecb8db24b",
+      "title": "Raising the need to expand regulations on telco - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Lallnb0k5TnQ0SWV2VmdKUnBWTHpxcVUyUjlYX2lMM1ZqcnpPTnlMcGFtSFlkRVNMcENPb0NzVnV4T1RlZjRwbVRsU1RMNjFMWkpXMDR3VEg0OTNveXhKUjJIVXpWYUVJbmRIT19YY03SAXRBVV95cUxPUjI3QVc3RmtrQnh1V1dyZlFyUVRBNDdOcTdGZFowWGRoOFVvdGVybHowaTIweGp3Si1rRVR0cmpIdzI3NWxZWEtSVW04UDNWNGR6RWRWMHNIUzIwaUJtYkpzcnUwQUpEUENxUFlJMl85bDd5ag?oc=5",
+      "publisher": "IT조선",
+      "publishedAt": "Thu, 15 Jan 2026 00:10:35 GMT"
+    },
+    {
+      "id": "78b8d4aa0e64c3d86729e725cb53327e242227fa",
+      "title": "게임 디스트릭트, 2025년 전 세계 다운로드 22억 건 돌파 - kmsnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jRkllV2tFYUJ0ams5LXNiUE9uRW42SXRWNmVDdVN1WWYwdFh5eXd1YUtwczZ3TldxSE9ZdVFOTkNYajhPR2M3QlhaYzI0MnBTMHI3MHZiVi1nUTI3LXN3a1dwUlVQVGlWM3c?oc=5",
+      "publisher": "kmsnews.co.kr",
+      "publishedAt": "Wed, 14 Jan 2026 22:29:00 GMT"
+    },
+    {
+      "id": "7c65c237e777773cedb512e3cce1af9ac6ef3bb3",
+      "title": "엔키아, Polestar ITSM GS 인증으로 공공 IT 표준운영 대응력 강화 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YWjJjR25aLXlBQkkzcWtxekRQWDNPNmx2X1V5ZF9NZjZRaFlpZFJaM1ZTZFYxZmNpMU9PZDdJU0ZvZ0dVeEdTSzA4ZU0zWHpJN2FOU1RQUWpGMlRSRkRR?oc=5",
+      "publisher": "헬로티",
+      "publishedAt": "Wed, 14 Jan 2026 06:18:03 GMT"
+    },
+    {
+      "id": "20f9e34bd4499296163e22e8c3c774f38f6b1556",
+      "title": "현대카드, AI 에이전트 적용 '2025 연간명세서' 오픈 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBON1dBSVMxR3dMQXk4VW03NGNTMDJWYWZIemp4OEVCLUZlQ3VWMncxcWozdXNxXzRGUTU0S0JqbkFLOEllTVRLRnZ3T2N5TW5JcjVTcHNqcG9vZGtIR294aUpSdklLdHlOcjR6elhia20?oc=5",
+      "publisher": "Korea IT Times",
+      "publishedAt": "Thu, 15 Jan 2026 04:11:54 GMT"
+    },
+    {
+      "id": "d3a12f45c1a0fdb6c24c1aa1c4934a4b669c736b",
+      "title": "OTT 앱 재방문율, 넷플릭스 가장 높고 웨이브 가장 낮다 - 미디어오늘",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fbjY5SFgyWlkwaW44OEIydHJpMW9YOUJsWEQwZlBZOU1RejhrSXJNVEh2bkhUZ3JVRVE0WFB0WEQ3RUZjQ0lPLUxJTVpKMlVmcnJva1hqNkp0OTJ1dWJNY0xzY2lDbEJvcmlEMTQxc0I?oc=5",
+      "publisher": "미디어오늘",
+      "publishedAt": "Wed, 14 Jan 2026 21:35:00 GMT"
+    },
+    {
+      "id": "423a082f6b7522f76a686813800557333b249bdc",
+      "title": "SK온, 실리콘 음극 전고체 상용화 해법 제시 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sTVhraGkwQURVUnFJNEtvcmFpZ3JZNFEyY19lWGI2RlAxZlZxcGwyemJXSWhmNVNLUHB1SW1USkxlZHpSLTl1U0ExcFQzWGphNHFsYzFBMktHNE9vWkVPbF93M0xMUUxMa1NQODNoUHI?oc=5",
+      "publisher": "Korea IT Times",
+      "publishedAt": "Thu, 15 Jan 2026 00:51:50 GMT"
+    },
+    {
+      "id": "938c01bddde7bbac9e067207ebc975b317e6ee7d",
+      "title": "반도체 관세 다시 꺼내든 트럼프...\"조만간 확대 부과 가능성\" - livebiz.today",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4N2lRVWhhUFc0SVJNbEZWUl82SGt4eVdYLXpGeDdueDNyRzFzVjM5emxPNV9YamJTazJSbEVCSDdzTTJxSFFiTm5WLTJYU3g0MV9YTWpSWl90RlotZVhPQ1FkT213TWJvcFdDZQ?oc=5",
+      "publisher": "livebiz.today",
+      "publishedAt": "Thu, 15 Jan 2026 01:37:16 GMT"
+    },
+    {
+      "id": "4ce5fbf84be7176977112f0c735112aaec5cf8b2",
+      "title": "해킹 위협에 정부·국회는 역할을 다했나 [줌인IT] - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40WU9JaGdxT2RfbjAxUVgtUW1mTWdQaC15c1JHdmZzbGpPWjhrUmUxMHYyTjBFSnliXzFxdkpTdnRhSXZfcUdJVG9pOFUwaml0ZnVRZ3A5OEJ5M1RCcUNWYTREenYtRTAzZkQ0cnBNc27SAXRBVV95cUxOQmJXUEVSaEF4bnVZYjc3Y0Z5VHc5T25ER3dFOGZLaVRPWUp3ODdhWExCUjNMQnByU3NxWVBOS0tUV1ZYSnZTLVpWMXNhTGRhbF82dHVCb2VSMVUzSVZJeXpJaEc4bWJibmMzQlNlUFNUNkxUaA?oc=5",
+      "publisher": "IT조선",
+      "publishedAt": "Wed, 14 Jan 2026 21:00:00 GMT"
+    },
+    {
+      "id": "82ae1aefb10c8c5301ddf79f0364af4dc043311b",
+      "title": "[15일 IT 소식] 아임웹, 자사몰 누적 거래액 '7조' 돌파外 팀스파르타·NHN두레이 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WdTBWUDF5dFlXbjNJXzVzYkdlXy1GYm9fNHdZZ3BPT2hYMGpUUFlocVBZM2NUYXJrR2hrQ2VvWHJKTWlPX083VmNuMk9kUXZBQ3Zz?oc=5",
+      "publisher": "네이트",
+      "publishedAt": "Thu, 15 Jan 2026 01:14:00 GMT"
+    },
+    {
+      "id": "6d6007ed500af3e9408f306deb0d7f21b41ae1a7",
+      "title": "‘It Just Works’ 철학 그대로, 스팀 머신 스팀 덱보다 조건 완화 - 위클리포스트",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXX1Z5OFp6VlM1VVI5WnlUUmFUN3hCU3VZdDd2ZGlXNlBXY0xlZl9OVEFYTk9SaHduRjkyaE1OaUFhSFRtTjNLekxZdE1EcDhTNUJBUlBUTDVVelJidV8weEpBbWZmTDVGbXVv?oc=5",
+      "publisher": "위클리포스트",
+      "publishedAt": "Wed, 14 Jan 2026 17:39:46 GMT"
+    },
+    {
+      "id": "ea8932414727a010cc10c9ddec0c4ee97b169a65",
+      "title": "KT, 지니 TV AI 에이전트로 ‘TV와 대화’ 확산 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RSEVJTXRvRjltSWhkUHdDUk55S0kxb1VXMkl0LUd5U3VScHRXSW9nV0xQVlh5NldqTTFHZG1EcXFrUThaeXpmT21NMS1SMnZxakJlc2hhWDZSNFhCSlhvNmxtZzE0eDRaTXNEb3dod2U?oc=5",
+      "publisher": "Korea IT Times",
+      "publishedAt": "Thu, 15 Jan 2026 01:09:02 GMT"
+    },
+    {
+      "id": "3daab5bb82e4dad7058e4997eec98bd1a1b19afc",
+      "title": "위메이드플레이, 네 번째 ‘애니팡 페스타’ 연다 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxSEpXNEJ1R05YMjl0OFkzOVoxV2Jpb2dsdlh2NXZEdzJWd2xnWUFIS0xTdkY5bk9FbUgzWDllOUlFRGF6bmptUV9ic0dGbWRsVkJzX0hmc1pFOE1DMjVaVVluTVk3QnBzY2xsYXNB?oc=5",
+      "publisher": "이지경제",
+      "publishedAt": "Thu, 15 Jan 2026 02:23:26 GMT"
+    },
+    {
+      "id": "43ff2c5a3470b5bac7dcfa3e7061c239a35a0959",
+      "title": "번호이동 대란…‘KT 위약금 면제’로 통신시장 파문 - 투데이신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nX0tuMlh6RnRhUHZ0TFJWU0lxczlka0tNWWtFZ3k0ZGM2dGtXQ3lIYmFJMXNRTnNoOEN4NGd1UkpKblYzUVJpYlBwcEZ5WU5oNmgzN0hzbDY1dWdJaHJJY19sRXh4TzZRN2tz?oc=5",
+      "publisher": "투데이신문",
+      "publishedAt": "Wed, 14 Jan 2026 11:14:19 GMT"
+    },
+    {
+      "id": "3b93a3017405af1020eb4ca750216d409d1c800c",
+      "title": "넷마블, ‘격전지 4층’ 등 새해 첫 대규모 업데이트 실시 - 뉴스웨이브",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kRkhLeFM5NmstaEN4NFpJZHd3VXJpLU15MkJTVlBLRHpVdUpHeUZyNlZKWmFXR2U4R3U1RTRQREhXakd1Y2FfUU5zb283SnFHWHItYURBcUdqdFZub2ktc1FLS1hoWGo0Mnc?oc=5",
+      "publisher": "뉴스웨이브",
+      "publishedAt": "Thu, 15 Jan 2026 00:05:17 GMT"
+    },
+    {
+      "id": "65ceb2c51819d5d1389c544a1d6c276c2363d17a",
+      "title": "모건 스탠리 CIO 설문: AI 열풍이 2026년 IT 예산 증가로 이어지지 않는 이유 By Investing.com - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lUGp1cVRvSk5zcEdVN3d4ZXlpV3ZpSHNXRTh6cDRRRkhNQk5VT09Bd1NFMGlyRWw0Z2ZfTkgzbzhQZXFrM29IYlhKWTAzV05QclgwY0F1SVpaQW0tS1RneVB0NjNVWG1jVTRnRng2Um4?oc=5",
+      "publisher": "Investing.com 한국어",
+      "publishedAt": "Wed, 14 Jan 2026 12:28:00 GMT"
+    },
+    {
+      "id": "4702daa2645de83c9f41b6bfc8c916e50bde60f6",
+      "title": "차바이오텍, LG CNS와 협약...AX·DX 사업 협력한다 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdmRpdWtfZWRmYnk4bG84aE93ZDBQOG1JOGJnUmJyQTlVU3RBVzFXbV94TE5HWmd2UjcwUnBURjlxYU9jQVNpMVpUbEJ1dw?oc=5",
+      "publisher": "매일경제",
+      "publishedAt": "Thu, 15 Jan 2026 04:48:16 GMT"
+    },
+    {
+      "id": "f45225aae43aa5c8888de719b0be66f7c01bfc2e",
+      "title": "에스티씨랩, 태국 '콘티켓'에 가상대기실 솔루션 적용 - 스마트에프엔",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SU1VLT3pJWkI5R3FFY2ZHcmx4dHF6WnEwSGdHQS1fNnBDaWFPOWltVTdmR2VvX0ozVkdtalhlYzI5UV94ZFkxNDB3d0VfTXQwYWc5T2FMUnI2enV6bW1YbWlkUS1kT09vV2tBYg?oc=5",
+      "publisher": "스마트에프엔",
+      "publishedAt": "Thu, 15 Jan 2026 01:18:50 GMT"
+    },
+    {
+      "id": "cb76eaf735ee516ac40de3faddeb38ee6fa3b478",
+      "title": "[ \"AI가 일자리 뺏으면 우린 뭐 먹고 사나?\"] IT 거물들의 '장밋빛' 해답은 '글쎄' '인공지능 대부' 힌튼 \"일자리 상실은 정치적 재난 될 것\" 경고 머스크·알트만, '보편적 고소득' 등 낙관론 펼치나 구체적 실천 방안 부재 - AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SNmhUSEhob0NSZngzUzUtX2VWX2xGd2dMMXE2cU9fb3FSTzhjYURRS0lZc0k0RDVqUFhXYVpKX04?oc=5",
+      "publisher": "AI넷",
+      "publishedAt": "Wed, 14 Jan 2026 22:39:00 GMT"
+    },
+    {
+      "id": "ae573702f2b234f32ab2b91e454eaf50aae6b039",
+      "title": "엔씨소프트 ‘리니지 클래식’, 사전 캐릭터 생성 서버 추가 오픈 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NOGQ4eHF6RFRkdzlMNWxnckJRamxCT3B5VUxGOFZNSHhsWnFISTBjVnE5Z2FPS1pQeUhLZG9sNThxMG5IN3M3c1JETnlnc1hING5VTFNjcFNGTXFCMGxTQjlXelV2b3JzMXZXeFdtUXQ?oc=5",
+      "publisher": "Korea IT Times",
+      "publishedAt": "Thu, 15 Jan 2026 01:24:30 GMT"
+    },
+    {
+      "id": "0dfae90647dd28f8bb08d7a2c474ef1cf4c04e30",
+      "title": "24시간 공격 환경, SOC는 선택이 아닌 필수 인프라 - 지티티코리아",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nU3QtNE0xNUxrN3dVbE5JMk5lWWE4S01nMlprV1huOHFpd2VQS1Fna0NicGJtNVhVU3J2MklrUzBkdlV4RkJTUHdsNjFfLU5xYnozMXF1M2dEMElzc1dOaTVsREs0WFk4OGc?oc=5",
+      "publisher": "지티티코리아",
+      "publishedAt": "Thu, 15 Jan 2026 00:07:18 GMT"
+    },
+    {
+      "id": "5c9484c56a90ea3b91259041d235cfc7018e0686",
+      "title": "“기술만으로는 부족하다” 2026년 IT 리더가 맞닥뜨릴 7가지 과제 - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQc1cyaF9kRXVxTTFOWHZhYkdxbmdZVHI3TTlJWldHMGRFV3M4R3VWUzFXTzRXdHA2WnhwMmtsLWEyRjhLcFhNMUdVcEJLQ0F2RUowSHhiZUNVR3VoRjh1aU1sRG1feUJXT2ZxQXhab2t1WGF5T1dQbjFZcDcyRWdDV215TFFEcUFXaWo5UFdUMDdJT2pIRklfSGZybE54anJXRi0yT3JfRWVsczh2WVZJX0YxeHNHTFVKd2FOOWg1T0czbXhrNUdCZUVkaXp1Z3JkcjBkanZJb1hwVW9DcUdRYk8xRnZHYlBCZ3dwZk85blE1cXFTcXR4UlVxRUJpd1BvaGF2S3ZHOFBJT21YQUZ1ZTIxTGkzLWN2dEtiTjlkeUREMV9fb2tlY2xGUEd2NzBobEZsVGkwSVRSV2ZW?oc=5",
+      "publisher": "cio.com",
+      "publishedAt": "Tue, 13 Jan 2026 08:16:02 GMT"
+    },
+    {
+      "id": "418adf355831627c62a402638375cfb6c54b1c38",
+      "title": "美 IT 매체 \"中, 엔비디아 H200 칩 사실상 수입통제\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Ql91UUhKVkFSck5PVGxkd0VfLWtsXzh5cGJtZ3JVd0QwTDJicHpjeUIweGp4ellOZHZaeXNIVl80WEs1UWp3eDBrM0FsZFU?oc=5",
+      "publisher": "v.daum.net",
+      "publishedAt": "Tue, 13 Jan 2026 20:39:00 GMT"
+    },
+    {
+      "id": "32e71a655982bdceb5e4381c5e81516c6472a3ae",
+      "title": "“에이전틱 AI 전략의 빠진 고리” IT와 HR의 협력 - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObFRaMzV2R1BKVVpLSndkamF0M2J6V0x2YW1Hb19nWmlwOGxjc3pxamxueFdrM2pIdUR0VFhyUFNYS1pKYWxWNm9jbldMN0dyY1RRMHdHT0NiMllYVmZSa0JLczV6UF9lelBpTW5qckVibzRhaXdZbTljWVFaaXB0WXh1eWtQYmsxempka3UybzJ3QVQ0MnRBR2UyRGFCYnNUNHBMSGxiXzNKMGdCX2dMWS0xV3gzWkxEcHk3cUxuVGdwV0wyekYtTmdONmk4TGc5TmtFcC1yei1JNTFRVjhFQk9Lbzdpd2tTNmM4VDcwam5IcldXVjBMckVzN3VYQ1NOTnlNU3pFdVZCaHZmblZvOTZsUG15SWRC?oc=5",
+      "publisher": "cio.com",
+      "publishedAt": "Mon, 12 Jan 2026 06:05:44 GMT"
+    },
+    {
+      "id": "2357ddb4160083afc5001f0e9111db4997cbfb3e",
+      "title": "[단독] 금융위, STO거래소 사업자 안건 상정 불발 - 재외동포신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTVRpT2RSRm9nUEQ1U2xYXzZvcE1vd245TXZJbkl1N01sRVpIcloxbmV5VllSc0lOYzREUV9tZjJyWXl0dUJjeVV1aVJiZ3pWRTNLdF9IdU1NVWVDV3hRa0w2VkczcXZMS1J5ag?oc=5",
+      "publisher": "재외동포신문",
+      "publishedAt": "Wed, 14 Jan 2026 10:08:14 GMT"
+    },
+    {
+      "id": "b64a293c629362771be0dcc6694f18e1aaf22871",
+      "title": "IT서비스도 '피지컬 AI' 패권전쟁 돌입…\"제조업 노하우가 관건\" - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDQzRZNkcxeWVLRy1IT3Npd1NlNjhwMmZSWHZtNmlCS1VaTnZaV3lGZF9TZlE5aG1UdjFGdFFUZ2VFNzlnNjIzX1BLY1FhUDM1RFh3WFNXNFRHQUJEeGd4Vg?oc=5",
+      "publisher": "뉴스토마토",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:13 GMT"
+    },
+    {
+      "id": "756c0ed3c9cbb0d1935c376779a5fa9df6392c80",
+      "title": "한국IT서비스산업협회 오는 16일 '2026년도 IT서비스산업 시장 및 기술전망 세미나' 개최 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUMnlHbVVsYmZiRFNOTG5vb0drMFdMYlFULWJKcjQ3b1ZZMVlUalM0aTBPc3ZpWVY0ellsUnBYRnZsY1JPbktwZ19IdWhEZw?oc=5",
+      "publisher": "전자신문",
+      "publishedAt": "Wed, 14 Jan 2026 07:10:07 GMT"
+    },
+    {
+      "id": "7b3f28bc7ad896c7df23095e63aac7c057ea6be8",
+      "title": "캐치테이블, 미식 취향 발견 위한 '새해 결심' 캠페인 - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XZXpERVBRc1RiY0xlUnQtWjBmaE5GLUlWeDMxLXFTZTZHYk0zcjcxa2JkR2RIWnVOQmlfeDJ1cnk2a20wYk5OS2cwNkJ3RlljUFpnOW5EYW81TV9CbGh1VkhQOEZDSlpZM3NISkN1dnM4VHPSAXdBVV95cUxOZWEwVU92WGw5S2xwSjFyR0VfajBqaURnNWIxLUsxcXRnTlQ1NTg3ZzMyR1YwcjR0RktGcEo0Y21HZnJOQmw1ajZMYkZ2a1R3TVBvMVFqdkNWVzBwYzdGRjViRG1BSmxyVFBwNG1aNWcyWkFvaFVFNA?oc=5",
+      "publisher": "스트레이트뉴스",
+      "publishedAt": "Wed, 14 Jan 2026 08:10:34 GMT"
+    },
+    {
+      "id": "0d391011d1c02ee4aa3e54451a036a26378e0cb4",
+      "title": "국제앰네스티 “사형 구형은 인권 후퇴\" - 프리진경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82UzYxbjE1eVpjbTZRc1ZqQnZnWlBXZ0NsNVUtUFJzdkc5dWVBdVpFek02UWFBaVJZR2Z2Q3Fhd0pfUXp2VEZLWm5vTGpSNmltR1gyV2tzNWM5R3JqbEItX1ltNHVUUTEwNmtzUg?oc=5",
+      "publisher": "프리진경제",
+      "publishedAt": "Wed, 14 Jan 2026 12:25:16 GMT"
+    },
+    {
+      "id": "ce4417fa20c3f0dadfc6c8f6281c0203c353c502",
+      "title": "[#통신 풍향계] KT 'AI 에이전트' 확산·HPE '포트폴리오' 확장 - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lTXN0LTJXLTRMUnV2Zy1LQ2pXUFowLWZLMmI1cG5UM3kzMlgzUko3YU16LU8tbUxOU29DbC1xYkV1b3N6b2FXbEdPOFRjNzdPbDNueFg1SzgwN2VlTm5WSXgwY3BQNTdHaGFGQ3lwc9IBc0FVX3lxTFAtdlFEMmpYbnRLWFY2RkN4YUlRcUd1VTlyaWNMSk9aWVV4ZUxYOUJuaGRTTG42ZXNBamRQbWZieDFLWmJpRG1fdDdrVF9DVkdTV2V1UG1JZ1BseElBMEhXelRNaTk0SUUxZHpzZTVEREVieDg?oc=5",
+      "publisher": "뉴스웍스",
+      "publishedAt": "Thu, 15 Jan 2026 02:46:23 GMT"
+    },
+    {
+      "id": "4c9ae4a4a5c28d3608de0a9ce35ab4680fba4b3d",
+      "title": "[서학!스타] 아이온큐, 美 국방 IT 리더 CIO 영입…양자컴퓨팅 핵심 기술력에 ‘안보 DNA’ 더한다 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80WjJTQWtVRjlVY3FaVWRmZ3J5YU5PdTRRdjFTVklxektkT2tlR1dmNmVKclFGeTVTYkdtSXU5U2VvaU1KNzBsa05RMnR1eGtsUGx2OE5reTZLWVRsY1REdWFKZDIxZ3pk?oc=5",
+      "publisher": "CBC뉴스",
+      "publishedAt": "Wed, 14 Jan 2026 13:44:48 GMT"
+    },
+    {
+      "id": "6003e303de3e627894a6823684167d27bb183da7",
+      "title": "연초부터 줄어든 대기업 IT 외주…AI 투자 집중이 만든 구조 변화 - 이코노믹데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DRWxhTmFFV3o4dkJwQVhWeDZIQ1lrYnBPd2l3Y0IzX1J4YWl3MXBoWDhxNWpDWWpGQW5FOTEzcV8tT0NtVDJjc2ZYREd6cjA4N2FOQnRXdThBYTFVMS1FTdIBXEFVX3lxTE4xUDltWlg0TnVhUy0xZExYVlRpemdFQzdTVXJKMzg4VkFoeFdwLXhEbWVNVXhYamtCN0xrTUpwQ1FZU0xDTXkyWjBmdG0xVjhvU0o3MUExLVZfZndu?oc=5",
+      "publisher": "이코노믹데일리",
+      "publishedAt": "Wed, 14 Jan 2026 07:27:24 GMT"
+    },
+    {
+      "id": "2f797601eb608ad1102a3670bfdfd612771961d8",
+      "title": "[경북대 X IT동아] 노코드 AI 한계 넘어 앱·웹 생성부터 운영까지 자동화…‘엠바스’ - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrVnFiTVZWWU5laG9aQ2t0dlp6Q0c0dDNQS3NMdHJGb2I0Q3ItZTBqZTVZbGRvWW1LdzJFckoyNHROQXFSUENPVjJIZEQ5cHYtaFQwa2tuNWl4aXkyTnNubUMxZ3NTM25DYXJWZ1NjVdIBZkFVX3lxTE9UamlxT0hKWm1HOEpwUFJaTzlPTy16TFBMUy1JTFNxMXBwS0ozQjZfZ0ZkQndqck9UOUgwY2czOHVfc3ZFS01ON29GZXhxbDV4S1c0OXVPUklpUVJqMjZONHd2eF9BUQ?oc=5",
+      "publisher": "동아일보",
+      "publishedAt": "Wed, 14 Jan 2026 01:20:00 GMT"
+    },
+    {
+      "id": "b533fef0c00d8fe236e574c631104515ff708d7c",
+      "title": "AI위원회 \"시장 규칙 따른다\"…AI 학습 저작권 면책 논란 팽팽 - 스포탈코리아",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUlOQWlhVmJRZ1p0RFhnRXdlcV9wQmhnRmoxYVJDZ0REQ2NZUkNmNkJ1eEI0WGZNdlB6VGdjVDM2eDlVeGpKVmF2NUVHX1lfLTNSdGhuVkVSWEJUeTdHY2hlTWtkRVRkQm1MR3JPMldXRzhuaG1ZNWVMbXBaQ2hxVThn?oc=5",
+      "publisher": "스포탈코리아",
+      "publishedAt": "Thu, 15 Jan 2026 04:29:47 GMT"
+    },
+    {
+      "id": "9ad032c791b4a2b479c54fd01587ac8de4549879",
+      "title": "최신 하드웨어 체험 행사 'MSI 익스피리언스 데이' 참가자 모집 - 인벤",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NMEliQWZodEFRcnpqVy1ITHpQZ0NzNFZBb1VQQkFUOGo4NmRNbzk5UnQyN0Q4MUpkVUc1eDREMmFkUlQxSmNTc0NVaU5iM2k2R1kyVW10SzlDb3VISkZTYnhmcWp3ZGpt?oc=5",
+      "publisher": "인벤",
+      "publishedAt": "Thu, 15 Jan 2026 04:46:39 GMT"
+    },
+    {
+      "id": "ba1779debd2bd4a5b1bc375f9dfe880bcd9caf32",
+      "title": "Now it is your turn to go (KOR) - Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDViNjZqcDl0UXByZ1dITGgtU2ZoZkRHeWhDM3ZtcUdVLW40eXZfLWJtZHYySDlweFpTV3FOY3V2WnRQcERlLU9UWE1DMHhwaktBVGxVZ295UC1vc0kwR1dld2pxSEhaaWRoT2VjaWE3YVpEWldyMk9jOE54RUFzWWdMZ1ktSGdiTEQxb2VGbGM5TkZvMzNfaGR3MlpKT24xSGs3NF9XQjh0REpfcDB0YzEyOUNMNnhY?oc=5",
+      "publisher": "Korea JoongAng Daily",
+      "publishedAt": "Wed, 14 Jan 2026 00:09:09 GMT"
+    },
+    {
+      "id": "0b01949e6dab4942e2139acbef624875ec57adec",
+      "title": "핑거, 자사 ERP에 AI 기반 전표 생성 자동화 구현 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZVlFGci0wQ2p5bzFqb3h6b1RLWTBOQ05oR19wd1NoRWppUjQwQWF4Wnl2a0tJS00tX2RMaHhaa2Z2ejBBRUZMcVc2VVJUeHNMUUN3UWVfZGRCOTJsQXAwN0lRQ2todw?oc=5",
+      "publisher": "디일렉",
+      "publishedAt": "Wed, 14 Jan 2026 09:23:27 GMT"
+    },
+    {
+      "id": "2745a152c83daf163411be57ebd90ee75f42bf88",
+      "title": "KISA, 양자내성암호 시범전환 사업 설명회 개최 - 뉴스저널리즘",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BY2lBM2lrS19zMGd4QU5SU21HWUFFWUNndmhJb2lVTk9ZdDl3ZGNUVmYzQkFkc1VXSVR4b2pyZDBFT1lQSlQ1OHU3QXFIUWVjYXUwUTIyM3hTM3QtMFFvR2ZzS09NUUN2OUpZ?oc=5",
+      "publisher": "뉴스저널리즘",
+      "publishedAt": "Thu, 15 Jan 2026 01:23:16 GMT"
+    },
+    {
+      "id": "906c6cbe5977fa1a9abe1c747479089f847ae37a",
+      "title": "LG CNS, 차바이오텍에 100억 투자 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14Y0ZoZmRtYkhpSjN2SlZPRTVkamcwUnZDcWw2Q1dNRE0zMmNRMmd2SnJaczJkb1RNa1JxakJrRjJ1U3BWT015Y1dVTTVWTEZ0cDFkUkRENVljRDVkelJTNm1CUjdVaFJtMEtV0gFvQVVfeXFMTmh4YWZSaHlUX0UzOTM2LWNHUkcxaVh2MGM0Q1MxRDBINzdnVENRNGc2TV9qQ01uc3lJYnY2ckZGc012NlFTcUwxdlE4c0QzcGIzN1ZqMWo0RVg5WUM4SUJGM2NlSU82RUJxNC1faGxZ?oc=5",
+      "publisher": "한스경제",
+      "publishedAt": "Thu, 15 Jan 2026 00:53:05 GMT"
+    },
+    {
+      "id": "23df8e3f49328996fa6b08a8c52467d6c18cd7db",
+      "title": "[포토] 해양업계, IT 기술 고도화 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Z3oybGNOLThDQzBGaVdkdGdmVnRYZ1dLWGE2YTNYZXdsN1NtUkoxdVMyNVlUNUppc0JIOW9XenhTcTZOdjcxRXo2ZWZFdw?oc=5",
+      "publisher": "전자신문",
+      "publishedAt": "Wed, 14 Jan 2026 06:38:39 GMT"
+    },
+    {
+      "id": "6636dbff7572f668c0a892f2f01dce79936df3ce",
+      "title": "태블릿과 공존 혹은 충돌… 갤럭시Z 트라이폴드 내재적 딜레마 - 더스쿠프",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XeFZNY0tFdWh4QnpWUDY4ZU94dExHaGVBbmx1TEZTczVOSWJKbzFEWTY5R0Z3UzI5OHhMWXY2ZlpaekhIVXk3b2E3RUFCNDVzeHhUdGdHNGJBZmlzcV9HZGtSQnhCVDA3TVo5aWVB?oc=5",
+      "publisher": "더스쿠프",
+      "publishedAt": "Tue, 13 Jan 2026 07:20:27 GMT"
+    },
+    {
+      "id": "c20f651ec73aaef3a029f4faf83bc7820e3bfa4f",
+      "title": "LG CNS invests in Cha Biotech to scale AI-driven healthcare - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yMU5iNmRnQXZXWUNXOFV1QjB4N19LM1JJWXZyQ1lSdGhjWG5SdFd3OG1xc3p6VU5PSjI5MkliSnF1a2JrRzlHa3VFREJkVk04WVZB?oc=5",
+      "publisher": "네이트",
+      "publishedAt": "Thu, 15 Jan 2026 00:43:00 GMT"
+    },
+    {
+      "id": "921cf16c92a201209a93199960c6359f71153cfe",
+      "title": "엔씨소프트, 신규 IP 2종 판권 확보…글로벌 퍼블리싱 확장 - 월요신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BUmlVTjdReDlBRjJsZllfTmtDdjMwZUtPd3BHdnNjVC11ODFHSjJOcmNhc1JBQl9Qc0ZhRDN5Q25QSEVfTTBuWHVYbnJITmw5SHVzVEpoc2JsZzVXc19nLThXSHpHNUtNbHc?oc=5",
+      "publisher": "월요신문",
+      "publishedAt": "Thu, 15 Jan 2026 00:05:07 GMT"
+    },
+    {
+      "id": "a6d084b9a45a5e99ba4088c69c807120bd32a651",
+      "title": "IT노조 “AI G3 도약, 'SW 내실·구조 개선'이 열쇠” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IYWFqZl92VFdRWlpfN0VYQ0g3M3dNWXh5ZV9wRkhkaUh6RGhoUmgtdnJ4SzUyNHdsMlZ0RWw3aFVWQ3o2cUNoTjQ5VGNEQQ?oc=5",
+      "publisher": "전자신문",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "id": "244f3b30fa8e222a56bd68918c2affe937d0be83",
+      "title": "[IT카페]개인정보위 '나무위키' 정조준 왜? - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40LXB3b2NHLUJsR3h5RER5bHU3cGw5TDlvUTNEcVZodmVEdnBnU2VFenBNczVZQWJfR0NYU0s4SUpNOXRXVDRmbXgtY1loREJsdzFFWVU1S1RTY3ZqTk55bA?oc=5",
+      "publisher": "아시아경제",
+      "publishedAt": "Tue, 13 Jan 2026 00:43:00 GMT"
+    },
+    {
+      "id": "11f4ba784e9cdf1637e54da32a9ff7cb17beea59",
+      "title": "전북대, CES 2026 디지털헬스 부문 ‘혁신상’ - 의학신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VbTE5U0pzcDh1SzlZSnltWDhLdnZpbmhweWJ4RkE5WTRkcTVvMW11dzd2Uk81OHpYQWppb3I4dGJPMVFaTl9raERHMm1UakVrS0wwY2dwWlM1ODVGelRiTVZWZmNvUU1y?oc=5",
+      "publisher": "의학신문",
+      "publishedAt": "Mon, 12 Jan 2026 06:35:55 GMT"
+    },
+    {
+      "id": "53a9fd8ec056abedd575c8a7fa3ecfa1944a9183",
+      "title": "[투자자 순매수 TOP5] 외인 조선·방산 '사자' vs IT·자동차 '차익실현' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OU2NqajJYQTBCWnJ1Y1JvTXk5MDZwaTB5a19RREVoaVI4dVBMZnlRVzMwNXBYalV1bVV5eHpuMlJxbXJ5YzMwcWJuYTJiZEk?oc=5",
+      "publisher": "v.daum.net",
+      "publishedAt": "Sun, 11 Jan 2026 23:34:00 GMT"
+    },
+    {
+      "id": "2eeb448e380a31756e05299febe276995b89eacb",
+      "title": "건물 밖으로 나온 '네이버 로봇'⋯소형 휴머노이드도 실험 [IT돋보기] - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qam5FR296YjNjeHFnQUtQeEpmUW0tTlptVVN2UmI1ZmZmV2tDR1g0NWMwR0JGQXpObUg2Qkg2MnJROGNzZXhrd2FUNXU?oc=5",
+      "publisher": "아이뉴스24",
+      "publishedAt": "Tue, 13 Jan 2026 07:42:42 GMT"
+    },
+    {
+      "id": "3eebc84aa166778cfc7b8865c6b536d3b10efc28",
+      "title": "한국의 대형 IT 기업들이 LCK와 페이커에 막대한 투자를 하고 있다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56Q051d3JMRDU5M3hBV0xLMDRsUU9KQXc1U0JoeFdJdXVRX05yUjh6MldfNHFjblE4VjhVb21jNjl2MWtNUi1qcEwta0p1YmJYTUNqRS1xUnRCbThtc0JzNDR1cm0yQUlHVTFMbm5vcGZ0Yy1GMEx2SE9MNUtUZFU?oc=5",
+      "publisher": "Vietnam.vn",
+      "publishedAt": "Wed, 14 Jan 2026 11:03:28 GMT"
+    },
+    {
+      "id": "232389ebebbf63d5b579e5c7b5e4770435e0a6f4",
+      "title": "IT 핫픽 - 왜 레고에 반도체를 넣었을까? - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXclRYRk1xNUZfVUd6TlBzVFNGb0Zudm1TMlI4SzdRLTYtc0tZZEpXVXJEdDFqYnVFV1BhTkoydDJRYU1PeGpGSzZSTWVYUQ?oc=5",
+      "publisher": "전자신문",
+      "publishedAt": "Wed, 14 Jan 2026 21:00:00 GMT"
+    },
+    {
+      "id": "35f0aa00d7a8304a3acce05a0542a34a7ea62936",
+      "title": "충남대 김용주 교수, 세계 최대 IT 전시회 ‘CES 2026’ 참가 - 교수신문",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBubmhsOWxlOWd4MTl5bXlFOWwtY19JcEc2T3dfR0diQ1FSa0RhaDhPYnN0SXVZRGtMRWxkTUR1WTZna0lXUmk1Wms2ZFJ0U1IxRzNXV1BiQVpUYXJ5M0d2dGtYWjYxZw?oc=5",
+      "publisher": "교수신문",
+      "publishedAt": "Mon, 12 Jan 2026 23:39:27 GMT"
+    },
+    {
+      "id": "e2d063e9b536d9ddde58172a4676137c871cfc60",
+      "title": "美 기업 4분기 실적 시즌 본격화..IT업종 위주 실적 성장 주도 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIT0lMU1B4SFNLMjVFNEl3cXgxZ0NkMUFFemxvTjhQZnkzcXZnbXpfRGxlN2NjZ1lrS1dsRmlHVUsteEF4YXhtOUFESFdid0dvZmZUWENtNzd0Nml1QVHSAW5BVV95cUxOYmJ5alVtSENLNWVuXzloLU1QVDVJQk9EMFctbER0dE1YQkZpb0VBWVMyNGZfWmJaUFNJZUF2eWVxZ2NvLW9mWHpKZDJzaGJrZzBYOWJRck1PQ2k4OTRjOUZLNkVEVFl0YWl1bGZwUQ?oc=5",
+      "publisher": "알파경제",
+      "publishedAt": "Mon, 12 Jan 2026 23:59:57 GMT"
+    },
+    {
+      "id": "9ee418c3372522489b1fb580e8ea4580b90517f9",
+      "title": "씨엔알리서치, 인도네시아 CRO 이퀼랩과 파트너십 체결 - 히트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iQW05ZExqZGhRazFoVE50WUZsSzIzSUgwWU15VVRzb24yTk9ucmtoYnFQSVVxYkp3UzBzRUhaWmdEWHNlNG5fZTVyaHg5WlVIQmhwbU56VGMxMkE1eFlWRV90MzZsN3hUZUVV?oc=5",
+      "publisher": "히트뉴스",
+      "publishedAt": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "id": "a8ab0b589319743ef14e6baf39b6288581698421",
+      "title": "알피바이오, 김현선 총괄사장 영입...\"올해 영업익 120억\" - 히트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbGJNcmFMbTNsSGxBV3hfdEhzYkY4RHJjdTBSaTFXTmg4UnF1Yml0MjNrQVM5QkIyNmJrNnFfU3hqZVJpQ3lFQ0JqemM4dXNlNlROQkpXUlMyaS1HbTBNNklTM2FNZUo2Uy1Z?oc=5",
+      "publisher": "히트뉴스",
+      "publishedAt": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "id": "b10ae881d0c6ce5e48a1fded4afd0a79a9dabb6b",
+      "title": "고양특례시, 세계 최대 IT 전시회‘CES 2026’ 방문… 첨단산업 육성책 모색 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZGtwUk41Z1o5dDktS1JhaVNwbFh1V0dKSGl5YXpJQjJVQlAyYmtqMTNEaE1lWUd2cldDX1pmWHh1U1RpNlNCMlJCUGpGMmI2Q1RadndCak50M0FJc1o3dXlCa3lldjV3OFdDVFNR?oc=5",
+      "publisher": "전국매일신문",
+      "publishedAt": "Mon, 12 Jan 2026 06:07:10 GMT"
+    },
+    {
+      "id": "2ad272d872d4ef3cc99af40b738e8b3d78ae8109",
+      "title": "JPMorgan CEO on Powell probe, “Fed independence is important···it will backfire” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmd0Y09zVk5zV1hQYXZuZ3pSc1BnMC1qVmEtMkRmUWJDY2pTTXJBWG5pdG5uVDNjbXdXbG5YNEFWOFJlZUtEN3RiamR6UlhOV1labWdKaXB5SmJKcXZZYUdHOUhmOWlWMW9oLVJsdGZKN01YcDd6OG5DZ2ZHcER5cGZ5Ums1NWFsbnJrQk5fZFhWUFB5S3RHdnNnS19EYThrbldsQTZISG14ZTRVYmF5Mw?oc=5",
+      "publisher": "경향신문",
+      "publishedAt": "Wed, 14 Jan 2026 00:11:00 GMT"
+    },
+    {
+      "id": "37ca6138897c9068c5931a81040e0186d3cc64d2",
+      "title": "“한국을 ‘맞춤형 반도체’ 실증 플랫폼으로 활용해야” - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZURKc2FBdlJabC1nb2F5REdCVUpGbjhjNC1iRDRZUC1WZ3JtQkxGVmFLb0R6SmtOeXVRQlB3clZ4NkJ6QVhjTlBMalpwZmtsSlJVdDIwakFDSEJwZVJqRk5YOTl1eF9OZUpfYjRla19xUdIBdkFVX3lxTE1pSUYtWXlKbUFBSF9VUnZiLWRpdm0xejRMWVIxTXBUSGdmQ2JJLVdRYmpsVlpmeHV3Z1VqcDVkRWRhb0ZleWh4eTZVdG51RkNQX0h4R29IQy1tYk9QYnQwT1ZJQVJUZWJGYVNXM0JqME9WMW5qcnc?oc=5",
+      "publisher": "시사저널e",
+      "publishedAt": "Tue, 13 Jan 2026 04:56:11 GMT"
+    },
+    {
+      "id": "de0ea5d02c8b1dd2c1d2ec22d61118cf845fff21",
+      "title": "세계 IT시장, 울산 혁신기업 기술 ‘주목’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11VFhuOWVNM3diZU1KZk1ROWx6TGdSZEkwTkdRYlBVeUdrbXVMb0J6Q0JhZlZ0UHdwUnZ6dDdCaFYwUGNJcnlMdFFhSDdwNWM?oc=5",
+      "publisher": "v.daum.net",
+      "publishedAt": "Tue, 13 Jan 2026 02:12:00 GMT"
+    },
+    {
+      "id": "4f01f3cfad34bd0a4936f4b3d0e4a2f7dbe551d6",
+      "title": "에스투더블유, ‘2026 Emerging AI+X Top 100’ 선정 - 현대경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kNUlCU2RpYmxtejI1SUJ0NXk4dk13NXVmMmdnbURuaFExcW5sRFJjaG5ReUtrN3I4SElLWE53dktOTzd2bl9BWHZYNTlVX3hydmF2UFRRWXpveEx1c29udTBENXlib2_SAWtBVV95cUxPaFkxYzJsLXlUN3BjckRabVhHTmg2QlBGR0F6QkNYSVBZM1VPRFRJbk9CYW5VaDZlRlVRTHdTUWh4Qmh4M0tTSUlNU1B3NHQ3aFRWVWdPTG5tSFRRcWg1bkxpNmJZeDNJV2ljYw?oc=5",
+      "publisher": "현대경제신문",
+      "publishedAt": "Thu, 15 Jan 2026 01:52:44 GMT"
+    },
+    {
+      "id": "b0508a9d7df34968c95eeb6b465c58d5263653f8",
+      "title": "[IT칼럼] AI 공장, 데이터센터 사업을 집중 지원해야 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tdlB1bExtc1BYUHdzam9Nem9GSjNtVk5nb1luc29wWlRrR2J6ZW5yd3U3UlJEbHVPRGg1VGM0Q3IxeWtSY201RW1SQ0hKTFVLQTV6Q2ZHeUlNZ3k5RnFFN1pZUjJfM1hEV1E?oc=5",
+      "publisher": "천지일보",
+      "publishedAt": "Tue, 13 Jan 2026 08:29:05 GMT"
+    },
+    {
+      "id": "35a232de65a6ebe2d666062916f8bccd883f8bf8",
+      "title": "뉴저지 남성, 북한 IT 노동자 ‘위장 취업’ 지원 혐의 유죄 인정…WMD 자금 창출 연루 - VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOVBvaEhpUUR5Uk9pZVdycnBNV0NNdmxKV1hiMTJVdF93UDA5Nm1DQjU2dTA2X2xOSjhuWS1UYXBqQzBUSE5sdmJRaE1NZ2JhOEZBeE1CVmlfUUpYSDA2cG54SThDenlOOXdfVHF6akxVZUlWSHJhT25SNE1ab196UnZJLU83Q1gtcDgxNG1QczJFSEUxRU1vN1dVWFlrUE41VjhsWHpMMEpIcVducTJ3QU1FNUpTMUt2bEdwMlJUZEEtQXpMaVVqWXo5czdtZUlHUms0M3RING9MSU5FUElfUHViMFJXZFNzQXJHeVVma3BDd0FTNFluNTBKUDJBTlZkb3Rj0gGGAkFVX3lxTFBGUUhCT0NBdjRBdDJGTmlfenpmMVl0NHV5NThnTjRpZldpSUNyc1d1NDBYdng0ZWtBRndIQUxpMzR3d1lJSkpPR2EySGxRZ01IbWpwSVZUT0ZXc0puWmJVUVZVS2hpZDZpUXdDOEU1QVBHZTk1M3oyQkJoMDQwSmYxQ0JZcTkxLUVMaENPcmJTZ2d1ODhKWEJLYmFWSnJFVUtLWERoaFFybFRfaWdEUC1RT3NockZxYi1zelByYkZSM1lwNGZ0V0FBWUtEd2djT1dZTldlNWJmMWlXc0NPNVM1a3ZWb1VJTkxVUUcxeFlKUFprUHlDQ1BHXzVVVEF3bzdlem11bUE?oc=5",
+      "publisher": "VOA 한국어 홈페이지",
+      "publishedAt": "Fri, 09 Jan 2026 16:39:32 GMT"
+    },
+    {
+      "id": "70386d1f98c6b099064357afe58a4a75115918fa",
+      "title": "스마일게이트 스토브, 인디게임 시상식 ‘2025 스토브인디 어워즈’ 개최 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mUVJOUlJ1Q1FUUkhLOXhRUVplRnpGUmRvamdOOG5pSllPT3pNd2c4bTM0N0wzTnpQYWkzRElFTU9Dd3dlZ0JrVkRjQ2ctWlQ5NkdrLS1WRFlCZ2JfV2pOMU1JekhEU2J4VTVEemVjN01ETEnSAXdBVV95cUxONE5JLXJSZzR1OEh5alNocXBDdnF4WWJSd0ZQMXZBcnp3bTF2dDE3OXBJYTZ1aWNLVVE4ZjFYVHJ6QWRaZ0xGMnJpU2x2amlRSTZvQWlSZC0yQ19EeHpGdXpTWVZhVkZFUDk1aE9GZlhOQVhHRk1ITQ?oc=5",
+      "publisher": "핀포인트뉴스",
+      "publishedAt": "Thu, 15 Jan 2026 04:46:00 GMT"
+    },
+    {
+      "id": "c260b88d3b84fd96351afa1e98da29b6419b4949",
+      "title": "세계를 압도한 K-e스포츠, 뒤에 우리銀이 있었다 - 재외동포신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UR0U0eExZYUFHTXFhdUN0WFh1WU0xeGVyZDBiWWFlNWNSTGktcmhXU3BGVjB3YV9qNVFBdXlwNDFZOVNiUWZtSTduSGxNMnhCRmdWU0Q2eTR1c294Rzhub0lqa1V6bXhRb29nSg?oc=5",
+      "publisher": "재외동포신문",
+      "publishedAt": "Tue, 13 Jan 2026 07:11:32 GMT"
+    },
+    {
+      "id": "9dc10d7548a1a54e79049f8066315bb4325ab517",
+      "title": "스마트폰부터 이어폰까지… IT 기기 청소법, 전문가가 전하는 팁 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yWmhvbS1WZjJSNEd6alY3SS1KU2tkdE5TVF9DOWpwVnhRS1hISFZNelY1MnUzcGZkb29QMW9taFl3T3pYLWdQM0pSVmpvUkNjRVV4YUlNOXJ4LURGR0lKbzN3cjV0ZlhKMFktRWR0WEQxWGM?oc=5",
+      "publisher": "디지털투데이",
+      "publishedAt": "Mon, 12 Jan 2026 05:47:00 GMT"
+    },
+    {
+      "id": "e157c6cb9b5c9515b4f1a404bf65e70c9fcca0f9",
+      "title": "LambdaTest Renames Itself TestMu AI as It Shifts to Agent-Based Testing - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LT0ZHUTlYVTNWSG1YUkRwMVhIeWJ6bmFjc3cxRGlLYzMxT3JMODVqMEVZcTRjUnhRNWtzOE01YmkyMUYwcWNFMEVxNlg0Q2V3MEpyd0kwRHRqVlREX0ZKUWc0N3pqM3FYOFpsZHJhaU8?oc=5",
+      "publisher": "Korea IT Times",
+      "publishedAt": "Mon, 12 Jan 2026 13:18:00 GMT"
+    },
+    {
+      "id": "05cea1b659511e109849c31d10ff0b08a253108b",
+      "title": "‘네이버 효과’ 꺼진 우버택시, 카카오 추격 ‘하세월’ - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTZzBVTTYweldsdlVQZFA5NG9tTDdBeU9XQnlwLU5IZkxHWDFPM1J4VmNFWFZLVVZBa0t3X01xRkJabHlEYXhqcThVUk15cWtlY1Niam9fWDM2aXN2YUFXek5sVWJXdzl1Mzk2cHNra1Z1d9IBdkFVX3lxTFAxNXkwcmV0d1ZFMWJuQy04WVV1Y0FUZVhyd3Utd0Vqa09zTl82Vk5hazdhSHJCdXlKZnMyLTVCNkViSG11aW1Ea2Y2M3FCQjd4SjZmLTNoVHo0Wm5wOUNQZTZBT1kxVkp1cGZOMzgzTXZKVWNsQmc?oc=5",
+      "publisher": "시사저널e",
+      "publishedAt": "Tue, 13 Jan 2026 07:29:36 GMT"
+    },
+    {
+      "id": "b93610e8214ddd0c3a3639ddcee5760be1a11817",
+      "title": "몸값 비싸도 뜨면 매진…삼성 '야심작' 흥행 비결은 [1일IT템] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QVViYmI0b0pXZUtDQklqaV9rWTl4dy1weWZKXzBvbmd5UDg4NjU5YkRTNmEyOFk2cTRqaDYxeHQyOTdMV0dHblhJRjd6eUU?oc=5",
+      "publisher": "v.daum.net",
+      "publishedAt": "Tue, 13 Jan 2026 21:01:00 GMT"
+    },
+    {
+      "id": "2afa1edb63b24823965d327949677fee2357232e",
+      "title": "KT '지니 TV AI 에이전트', 일상 대화 나누는 플랫폼으로 활용 - 한국아이닷컴",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zZlpKdk5oY1U2bGx6UHVQVG8wU2pLVF9jblo0aUJJZVhvQ1VwVC1xTFkxbDBvcVlRSlNIUmI3WDdrVW9tNGQxUkxha2xlb2c0YlNUbDhrZnplRnRZZjhqRGFWVzJ1VS0yMHRN0gFvQVVfeXFMTjNsaUJWQy1SUmhuc3l5YjVvSkxCcExXVm5PdkJPX3lDVjZ0SDZzYUtSTFhEdU9kd3pUZ2hHa1B1SGZkclNmUXNXcFVHZXBhQmc4YldHQlYxWFJmMHBqaDdkTDhzcHJRb1pDNXc3cVU0?oc=5",
+      "publisher": "한국아이닷컴",
+      "publishedAt": "Wed, 14 Jan 2026 23:57:20 GMT"
+    },
+    {
+      "id": "54e337fa79abfc217a6525e32db8035ee8f74f67",
+      "title": "지멘스, 산업용 메타버스 솔루션 ‘Digital Twin Composer’ 출시 - 트래블데일리",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92Ylp4MFhhR2tXbUNFbV9LR0NySE9iWjVwRXhoeU1oeFM0bzNlS1VMemxBY3lHcTJ0ZThpcnVkMzRFYXRhVlIyNEVLVzNSVXR6S1BvUklUOUpYcW9SWGdGZzVxUDkzdHlxbmc?oc=5",
+      "publisher": "트래블데일리",
+      "publishedAt": "Thu, 15 Jan 2026 00:49:21 GMT"
+    },
+    {
+      "id": "14e1de7e9dce63520d479b2ee5c320c948d53ed4",
+      "title": "[오늘의 게임·IT 소식] 해시드·샤드랩 공동 운영 '프로토콜캠프' 성료 外 - 딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VQWpNaU9xRXV1bTdPUVA2YWpSNGg0enBNZ2dURl9Ya1VkNlNPTkJsaDhLRlZBZHByZ1V0V2VQTlNZY25qODE2Nkt6anZSR28?oc=5",
+      "publisher": "딜사이트",
+      "publishedAt": "Wed, 14 Jan 2026 04:21:59 GMT"
+    },
+    {
+      "id": "2d182aad293703d35f236fced432c9faeeacfb86",
+      "title": "AI 패권 경쟁, ‘모델’ 아닌 ‘인프라’ 싸움으로…국내 IT 선택 갈린다 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96Q204R1Z0WWxqN0ZGRjQ4aEVFNXVvUXVPNEh3Sy1yZExXNTQzNXFMODQ3TEsyLVlEZFVRaFN4ZlR0QjBqZGRaRFE2WlBUcTJJRFgtUGR5WGRic1BfMnd6eWhpWWxXZkNpWlhhQWpB?oc=5",
+      "publisher": "이지경제",
+      "publishedAt": "Tue, 13 Jan 2026 04:00:00 GMT"
+    },
+    {
+      "id": "9e23d94a16a19a93ff8cec6d892829bbbe98bc41",
+      "title": "현대차 '아이오닉 9', 세계 여성 올해의 차 수상 - 뉴스웨이브",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01U1FNall3TTFQcllISHhPRHZYWWdnT1drOVZ1U2VYMEY1TzdLTlJkbnVDOU85NThPMEpfdGlsOWVVam5rRW5kUF9SV2daR1ZKdnhVVmdLVlJVU2hDOE5vbzUyWmowY2lSTnc?oc=5",
+      "publisher": "뉴스웨이브",
+      "publishedAt": "Wed, 14 Jan 2026 05:44:12 GMT"
+    }
+  ]
+}
