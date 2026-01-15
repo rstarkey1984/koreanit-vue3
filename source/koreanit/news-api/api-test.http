@@ -1,0 +1,32 @@
+### api/dev/test
+DELETE http://localhost:3000/api/dev/test
+Content-Type: application/json
+
+{"title":"새 뉴스","link":"test"}
+
+### api/news
+GET http://localhost:3000/api/news
+Content-Type: application/json
+
+### api/news
+POST http://localhost:3000/api/news
+Content-Type: application/json
+
+### api/news
+PUT http://localhost:3000/api/news
+Content-Type: application/json
+
+### api/news
+DELETE http://localhost:3000/api/news
+Content-Type: application/json
+
+### api/auth/login
+POST http://localhost:3000/api/auth/login
+Content-Type: application/json
+
+{"id":"admin","password":"1234"}
+
+### api/auth/me
+GET http://localhost:3000/api/auth/me
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwibmFtZSI6Iuq0gOumrOyekCIsImlhdCI6MTc2ODQ2MjcwNywiZXhwIjoxNzY4NDY2MzA3fQ.LCeJ0OD7HfgbxGyr2sbn7pfAWyOtGNxKUBpfM-7s9HQ
